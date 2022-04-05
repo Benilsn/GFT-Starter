@@ -12,7 +12,7 @@ public class App {
 
         System.out.println("Type the age, height, weight from 10 people:");
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 10; i++) {
 
             Person p = new Person();
 
